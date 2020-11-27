@@ -21,9 +21,9 @@ I have tried to answer several questions like, Which is the rate of overdoses de
 
 ## Dataset
 I have used datasets from several sources. The main ones are:
--“Opioids, cocaine, cannabis and illicit drugs”(2018). Hannah Ritchie and Max Roser, Our World in Data. https://ourworldindata.org/illicit-drug-use
--“Statistical Bulletin 2020”. European Monitoring Centre for Drugs and Drugs Addiction. https://www.emcdda.europa.eu/data/stats2020_en
--“The Global Gender Gap Report 2016”. World Economic Forum. http://www3.weforum.org/docs/GGGR16/WEF_Global_Gender_Gap_Report_2016.pdf
+- “Opioids, cocaine, cannabis and illicit drugs”(2018). Hannah Ritchie and Max Roser, Our World in Data. https://ourworldindata.org/illicit-drug-use
+- “Statistical Bulletin 2020”. European Monitoring Centre for Drugs and Drugs Addiction. https://www.emcdda.europa.eu/data/stats2020_en
+- “The Global Gender Gap Report 2016”. World Economic Forum. http://www3.weforum.org/docs/GGGR16/WEF_Global_Gender_Gap_Report_2016.pdf
 
 ## Workflow
 The general workflow was: Getting the data, cleaning it and organizing it. After that I started to plot the data, exploring all the possibilities until I had the most suitable ones. Finally I wrote a medium article in which I described all the insights in the most friendly way possible.
@@ -32,7 +32,6 @@ The general workflow was: Getting the data, cleaning it and organizing it. After
 The repositoy has 3 different folder: the code folder with the python notebook from data cleaning, the data folder with all the raw data obtained from the different sources and the presentation folder with the slides of the official presentation.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository] https://github.com/MiguelSM91/project-4
 
